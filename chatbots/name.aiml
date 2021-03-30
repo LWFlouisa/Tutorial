@@ -1,0 +1,4 @@
+<aiml>
+  <pattern>What is your name?</pattern>
+  <template>Hello, my name is Bianca!</template>
+</aiml>
